@@ -22,8 +22,8 @@
   - LangChain & OpenAI API Integration
   - MongoDB Atlas, Redis, BullMQ
   - Clean Architecture & Testing
-- 👯 Collaborating on [Hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open-source API client
-- 🤝 Seeking contributors for [Carbon Foot Tracker](https://github.com/akki-2004/Carbon-Footprint-Tracker)
+- 👯  Actively seeking to contribute to [Hoppscotch](https://github.com/hoppscotch/hoppscotch) – a leading open-source API development ecosystem.
+- 🤝  Looking for contributors to join [Carbon Foot Tracker](https://github.com/akki-2004/Carbon-Footprint-Tracker) -  an AI-powered sustainability platform driving climate awareness.
 - 👨‍💻 Portfolio: [akshay-portfolio-wine.vercel.app](https://akshay-portfolio-wine.vercel.app)
 - 📝 Writing on [LinkedIn](https://www.linkedin.com/in/tirumani-satya-akshay-bb4885284/)
 - 💬 Ask me about:
