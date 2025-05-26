@@ -95,7 +95,7 @@
 
 ### 🧠 Quote of the Day
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Great code is poetry with logic — and every bug is just a misplaced stanza waiting for a rubber duck to narrate it.” 
 
 ---
 
