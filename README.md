@@ -2,6 +2,10 @@
 <h3 align="center">💻 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://readme-hero-stats.vercel.app/api/hero?username=akki-2004&theme=tokyonight&font=Roboto" alt="hero banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=akki-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="akki-2004" />
 </p>
 
@@ -15,25 +19,25 @@
 
 ### 🚀 About Me
 
-- 🔭 Working on **[Zyro-AutoPilotPM](https://github.com/akki-2004/Zyro-AutoPilotPM)** – An intelligent product management assistant for startups.
+- 🔭 Working on **[Zyro-AutoPilotPM](https://github.com/akki-2004/Zyro-AutoPilotPM)** – Intelligent PM assistant for startups.
 - 🌱 Learning:
   - Advanced React & Next.js
-  - Microservices with Node.js
-  - LangChain & OpenAI API Integration
-  - MongoDB Atlas, Redis, BullMQ
+  - Node.js Microservices
+  - LangChain, OpenAI APIs
+  - MongoDB, Redis, BullMQ
   - Clean Architecture & Testing
-- 👯 Collaborating on [Hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open-source API client
+- 👯 Contributing to [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - 🤝 Seeking contributors for [Carbon Foot Tracker](https://github.com/akki-2004/Carbon-Footprint-Tracker)
-- 👨‍💻 Portfolio: [akshay-portfolio-wine.vercel.app](https://akshay-portfolio-wine.vercel.app)
+- 🧑‍💻 Portfolio: [akshay-portfolio-wine.vercel.app](https://akshay-portfolio-wine.vercel.app)
 - 📝 Writing on [LinkedIn](https://www.linkedin.com/in/tirumani-satya-akshay-bb4885284/)
-- 💬 Ask me about:
-  - React ⚛️
-  - GSAP Animations 🎨
-  - Puppeteer/Playwright Crawlers 🤖
-  - Automation & Intelligent Tools
-- 📫 Reach me: **naniakshay361@gmail.com**
+- 💬 Ask Me About:
+  - ⚛️ React
+  - 🎨 GSAP Animations
+  - 🤖 Puppeteer/Playwright
+  - 🧠 AI-Powered Automation
+- 📫 Email: **naniakshay361@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1yLb7qO_K0JsLIPKysrpCsGJutlxSiMZn/view?usp=sharing)
-- 🐥 Fun fact: I debug bugs by talking to a rubber duck. Sometimes... it talks back 💬
+- 🐥 Fun Fact: I debug by talking to my rubber duck. Sometimes it talks back.
 
 ---
 
@@ -57,48 +61,32 @@
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Languages
-`JavaScript` `TypeScript` `Python` `Java` `C++` `C`
-
-#### 🌐 Frontend
-`React` `Next.js` `Vue.js` `TailwindCSS` `Bootstrap`
-
-#### 🧠 AI/ML
-`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas`
-
-#### 🛠 Backend
-`Node.js` `Express.js` `Spring` `Flask` `Django`
-
-#### ☁️ Cloud & DevOps
-`AWS` `GCP` `Firebase` `Docker` `Kubernetes` `Git` `Jenkins`
-
-#### 🧰 Tools
-`MongoDB` `MySQL` `PostgreSQL` `Redis` `Postman` `Figma` `Arduino`
-
----
-
-### 📈 GitHub Insights
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akki-2004&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akki-2004&theme=tokyonight" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akki-2004&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Quote of the Day
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akki-2004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akki-2004&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akki-2004&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 💡 Quote of the Day
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
 <p align="center">
-  💬 _Thanks for visiting! Let's build something impactful together._  
+  ✨ Thanks for visiting! Let’s connect and build something impactful together. 🚀
 </p>
